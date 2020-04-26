@@ -1,0 +1,19 @@
+{
+  "name": "travel-app_bk",
+  "version": "1.0.0",
+  "description": "My Travel App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cstudio7/Travel-App_bk.git"
+  },
+  "author": "Victor Godwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cstudio7/Travel-App_bk/issues"
+  },
+  "homepage": "https://github.com/cstudio7/Travel-App_bk#readme"
+}
